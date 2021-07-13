@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head><title>BootStrap</title>
+<meta charset="utf-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  </head>
+  <body  style="color: white; align-items: left; background-color: #274D93;">
+
+<div class="container-fluid">
+<br><br>
+  <div class="container-fluid row" style="float: right; padding: 10px;">    
+ <ul class="nav navbar-nav">
+<li><a href="#" style="color: white;  background: #274D93; font-size: 25px; font-family: Source Sans Pro; margin-right: 730px;">ARSHA</a></li>
+
+<li><a href="#" style="color: lightblue; background: #274D93;">Home </a></li>
+
+<li><a href="#" style="color: white;  background: #274D93;">About</a></li>
+<li><a href="#" style="color: white;  background: #274D93;">Services</a></li>
+<li><a href="#" style="color: white;  background: #274D93;">Portfolio</a></li>
+<li><a href="#" style="color: white;  background: #274D93;">Team</a></li>
+<li><a href="#" style="color: white;  background: #274D93;">Contact</a></li>
+
+ <ul class="nav navbar-nav">
+  <li class="active"><a class="dropdown-toggle" data-toggle="dropdown" href="#" style="color: white;  background: #274D93;"> Dropdown
+  <span class="caret"></span></a>
+  <ul class="dropdown-menu">
+  <li><a href="#">Web Development</a></li>
+  <li><a href="#">Android App</a></li>
+  <li><a href="#">Software</a></li>
+  </ul>
+  </li>
+  <button type="button" class="btn btn-button" style=" font-size: 15px; border-color:lightblue; background:#274D93; border-radius: 20px;">Get Started</button> 
+
+</div> 
+<div class="col-lg-6" align="left" style="font-family: Source Sans Pro; font-size: 24px; margin-bottom: 50px;">
+    <br><br><br>
+<h1>Better Solutions For <br>Your Business</h1>
+<h3 style="color: lightgrey;">We are a team of talented designers making <br>websites with Bootstrap</h3>
+<button type="button" class="btn btn-button" style="background-color:#47b2e4; border-radius: 50px; font-size: 16px;">Get Started</button>
+<button type="button" class="btn btn-button" style="border: blue; background:#274D93; font-size: 16px;">Watch Video</button>
+</div>
+<br><br>
+<div class="col-lg-6">
+  <img src="image.png" width="80%; "> 
+  </div>
+<div class="row">
+  <div class="col-lg-2" style="padding-top: 15px; background :#EDF1E8;">
+<img src="myob.png" width="40%">
+</div>
+ 
+ <div class="col-lg-2" style="padding-top: 15px; background :#EDF1E8;">
+<img src="belimo.png" width="49%">
+</div>
+<div class="col-lg-2" style="padding-top: 15px; background :#EDF1E8;">
+<img src="lifegroups.png" width="49%">
+</div>
+<div class="col-lg-2" style="padding-top: 15px; background :#EDF1E8;">
+<img src="lilly.png" width="32%">
+</div>
+<div class="col-lg-2" style="padding-top: 15px; background :#EDF1E8;">
+<img src="citrus.png" width="49%">
+</div>
+<div class="col-lg-2" style="padding-top: 15px; background :#EDF1E8;">
+<img src="trustly.png" width="55%">
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

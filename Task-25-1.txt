@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Task-25-1</title>
+	<meta charset="utf-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+	<div class="container-fluid" style="background-color: #3f3c3b;">
+	<div class="row">   
+ <ul class="nav navbar-nav">
+<li><a href="#" style="color: white;  font-family: Source Sans Pro;">Navbar</a></li>
+<li><a href="#" style="color: white;">Home</a></li>
+<li><a href="#" style="color: lightgrey;">Link</a></li>
+<li><a href="#" style="color: darkgrey;">Disabled</a></li>
+
+  <li class="active"><a class="dropdown-toggle" data-toggle="dropdown" href="#" style="color: darkgrey;"> Dropdown
+  <span class="caret"></span></a>
+  <ul class="dropdown-menu">
+  </ul>
+</li>
+<div class="container">
+ <ul class="nav navbar-nav navbar-right">
+  <input type="text" id="name" placeholder="Search">
+<button type="button" class="btn btn-button" style="background-color:lightgrey;  font-size: 16px;">Search</button>
+</ul>
+</div>
+<div class="container" style="background-color: white;">
+<div class="col-lg-12">
+<pre><h1 style="color:black;">Hello,world!</h1>
+<p>A paragraph is a series of related sentences developing a central idea, called the topic. 
+<button type="button" class="btn btn-info">Learn More</button></p></pre>
+</div>
+<div class="container" style="background-color: white;">
+
+<div class="col-lg-4">
+<h2 style="color: black;">Heading </h2>
+<p style="color: black;">A paragraph is a series of related sentences developing a central idea, called the topic. </p>
+<button type="button" class="btn btn-primary">View details</button></p>
+
+</div>
+<div class="container" style="background-color: white;">
+
+<div class="col-lg-4">
+<h2 style="color: black;">Heading </h2>
+<p style="color: black;">A paragraph is a series of related sentences developing a central idea, called the topic. </p>
+<button type="button" class="btn btn-primary">View details</button></p>
+
+</div>
+<div class="container" style="background-color: white;">
+
+<div class="col-lg-4">
+<h2 style="color: black;">Heading </h2>
+<p style="color: black;">A paragraph is a series of related sentences developing a central idea, called the topic. </p>
+<button type="button" class="btn btn-primary">View details</button></p>
+</div>
+</div>
+</ul>
+</body>
+</html>
